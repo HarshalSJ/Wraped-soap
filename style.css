@@ -147,7 +147,7 @@ video {
 
 
 #about-us {
-  background-image: url("./Assests/bgabout.jpg");
+  background-image: url("./assets/bgabout.jpg");
   object-fit: cover;
    height: 600px;
   width: 100%;
